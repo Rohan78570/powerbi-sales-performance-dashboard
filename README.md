@@ -26,5 +26,4 @@ This project is an interactive Sales Performance Dashboard created using Microso
 - Microsoft Power BI
 - Microsoft Excel
 
-## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+
